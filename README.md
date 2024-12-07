@@ -35,3 +35,49 @@ Semana 3: Revisão e Melhorias
 Dia 11-13: Revisar o código para melhorias, como otimizações de performance e melhorias na experiência do usuário.
 
 Dia 14: Documentar o projeto e preparar para possível expansão ou novos recursos futuros.
+
+
+Processo de Desenvolvimento para Criar o Aplicativo de Calculadora
+
+1. Planejamento Inicial
+Objetivo: Definir claramente o objetivo do projeto e as funcionalidades principais. No caso, criar uma calculadora simples que realiza operações aritméticas básicas (adição, subtração, multiplicação, divisão).
+
+3. Definição das Funcionalidades
+Operações: Adição, subtração, multiplicação, divisão.
+
+Interface de Usuário: Display para mostrar os resultados e botões para números e operadores.
+
+Funcionalidades Adicionais: Limpar o display e calcular o resultado.
+
+3. Estruturação do Projeto
+Criar um Repositório no GitHub:
+
+Inicializar o repositório no GitHub para versionar o código.
+
+Nomear o repositório (por exemplo: calculadora).
+
+Adicionar uma descrição breve.
+
+4. Desenvolvimento da Estrutura HTML
+Criação da Interface:
+
+Desenvolver a estrutura básica do HTML que incluirá o display e os botões.
+
+Branch layout: Trabalhar na criação da estrutura HTML em uma branch separada.
+
+
+Desafios Enfrentados
+Definir a Estrutura HTML: Criar uma estrutura lógica e funcional.
+
+Implementação da Lógica: Garantir que as operações matemáticas sejam realizadas corretamente.
+
+Gerenciamento de Funcionalidades: Adicionar novas funcionalidades e melhorias sem comprometer a funcionalidade existente.
+
+Como o Git Ajudou a Gerenciar o Projeto
+Controle de Versão: O Git permitiu rastrear todas as mudanças no código e reverter para versões anteriores quando necessário.
+
+Branches para Funcionalidades: Utilizar branches separadas para diferentes funcionalidades ajudou a evitar conflitos de código e facilitou a colaboração.
+
+Commits Descritivos: Mensagens de commit claras ajudaram a manter um histórico de mudanças organizado e compreensível.
+
+Integração Suave: A capacidade de mesclar branches facilitou a integração de novas funcionalidades e melhorias de forma suave e sem problemas.
