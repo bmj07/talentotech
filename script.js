@@ -1,4 +1,3 @@
-// script.js
 document.addEventListener('DOMContentLoaded', () => {
     const display = document.getElementById('display');
     const buttons = Array.from(document.getElementsByClassName('btn'));
